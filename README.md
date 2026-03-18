@@ -308,8 +308,4 @@ Program tidak hanya menampilkan satu transaksi, tetapi dua skenario transaksi be
 4. Pemisahan alur bisnis dan output struk
 Perhitungan pesanan dilakukan di class Pesanan, sedangkan tampilan bukti transaksi difokuskan di class Struk agar arsitektur lebih terstruktur.
 
-<<<<<<< HEAD
 Keunikan ini membuat program lebih siap dikembangkan, misalnya menambah metode pembayaran baru, diskon, pajak, atau penyimpanan riwayat transaksi.
-=======
-Keunikan ini membuat program lebih siap dikembangkan, misalnya menambah metode pembayaran baru, diskon, pajak, atau penyimpanan riwayat transaksi.
->>>>>>> 12a4f2a47331d29f91d47b5e7357c29067a3dff3
