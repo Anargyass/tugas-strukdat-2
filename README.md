@@ -1,0 +1,1 @@
+# tugas-strukdat-2
