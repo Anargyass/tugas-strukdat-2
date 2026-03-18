@@ -1,0 +1,6 @@
+# Java compiled bytecode
+*.class
+
+# Optional: ignore IntelliJ/VS Code local settings if needed
+# .idea/
+# .vscode/
