@@ -8,7 +8,7 @@ interface Pembayaran {
 }
 
 class FormatUang {
-    public static String formatRupiah(double nominal) {
+    public static String rupiah(double nominal) {
         NumberFormat formatRupiah = NumberFormat.getCurrencyInstance(Locale.forLanguageTag("id-ID"));
         return formatRupiah.format(nominal);
     }
